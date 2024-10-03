@@ -8,9 +8,9 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Bot configuration
-TOKEN = 'BOT TOKEN'
+TOKEN = '7542529541:AAGJWXy-RT0E77ygm-1XTZG_9J7BB_MsS7I'
 CHANNEL_ID = -1002453216300
-ADMIN_IDS = [YOUR ID]
+ADMIN_IDS = [5420342023]
 
 # In-memory user data storage
 users_data = {}
